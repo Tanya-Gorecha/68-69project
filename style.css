@@ -1,0 +1,13 @@
+#vid{
+    width:100%;
+    height: 500px;
+    border:none;
+}
+.travel_maindiv{
+    border:1px solid grey;
+}
+hr{
+    width:1000px;
+    height: 20px;
+    color:black;
+}
